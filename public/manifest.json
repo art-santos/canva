@@ -1,0 +1,12 @@
+{
+  "short_name": "MY_APP",
+  "name": "Next.js App Template",
+  "lang": "en",
+  "start_url": "/",
+  "background_color": "#2d2d2d",
+  "theme_color": "#2d2d2d",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "portrait",
+  "prefer_related_applications": false
+}

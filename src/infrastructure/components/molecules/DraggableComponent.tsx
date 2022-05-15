@@ -49,7 +49,7 @@ const DraggableComponent: React.FC<ContentInterface> = ({
         width={size.width}
         minHeight={100}
         minWidth={100}
-        enableResizing={false}
+        enableResizing={true}
         disableDragging={isUndraggable}
         bounds={"parent"}
         /*We we click here we a going to set the component active using his id as a parameter

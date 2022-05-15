@@ -1,7 +1,7 @@
 
 # ALCHEMY CANVA
 
-Alchemy canva is a small project for alchemy commerce. It's is very very basic and have just a few functions, such as add squares to an array, removing then, set is position, and lock the component in one place. 
+Alchemy canva is a small project. It's is very very basic and have just a few functions, such as add squares to an array, removing then, set is position, and lock the component in one place. 
 
 ## Features used for building this APP
 

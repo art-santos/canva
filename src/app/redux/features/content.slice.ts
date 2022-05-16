@@ -47,7 +47,7 @@ export const contentSlice = createSlice({
         color: action.payload.color,
         isActive: false,
         isUndraggable: false,
-        isResizable: true,
+        isResizable: false,
         index: action.payload.index,
       };
       //------------------------------

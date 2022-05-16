@@ -65,15 +65,3 @@ To check is there are any problems
 
 * Create as many as you want! Also reload the screen to se they persisting.
 ![App Screenshot](https://canva-plum.vercel.app/readme/8.png)
-
-
-
-  
-<<<<<<< HEAD
-## Demo
-
-[CANVA ALCHEMY](https://canva-plum.vercel.app/)
-
-  
-=======
->>>>>>> 6af326c8505d89f5f751af8541dca8d4e1ba8761

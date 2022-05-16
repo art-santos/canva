@@ -39,7 +39,7 @@ const Home: NextPage = () => {
     persistCookie("actions", { created, deleted });
   }, [created, deleted]);
 
-  //That's our layourt =)
+  //That's our layout =)
   return (
     <>
       <Flex h="full">

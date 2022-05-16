@@ -20,7 +20,7 @@ const ToggleResize: React.FC<ToggleResizeProps> = ({ isResizable, index }) => {
         aria-label="delete-toggle"
         icon={isResizable ? <UpDownIcon /> : <LockIcon />}
         isRound={false}
-        isActive={true}
+        isActive={false}
         position="absolute"
         bottom="0px"
         left="0px"

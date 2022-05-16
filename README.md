@@ -16,11 +16,8 @@ Alchemy canva is a small project. It's is very very basic and have just a few fu
  - [REACT RND](https://github.com/bokuweb/react-rnd) - EASIER DRAGGABLE COMPONENTS
  - [UUIDV4](hhttps://www.npmjs.com/package/uuidv4) - GERERATING ID'S FASTLY
  - [EMOTION CACHE](https://emotion.sh/docs/@emotion/cache) - CACHE FOR STYLES
-<<<<<<< HEAD
- - [VERCEL](https://vercel.com/) - BEST DEPLOYMENT PLATFORM
-=======
  - [VERCEL](https://vercel.com/) - DEPLOYMENT PLATFORM
->>>>>>> 6af326c8505d89f5f751af8541dca8d4e1ba8761
+
 ## Run Locally
 
 Running
